@@ -7,9 +7,16 @@ Version 3.0.x
 
 Release Date: Unreleased
 
+-   New Translations
+
+    -   serbian
+    
 -   Updated Translations
 
+    -   german
+    -   hindi
     -   italian
+    -   slovenian
     -   swedish
 
 Version 3.0.6

@@ -40,10 +40,10 @@ czech                    3.0.3        Ruplahlava         Štěpán Postránecký
 dutch                    3.0.3        pkrul              Pieter Krul
 filipino                 3.0.4        dzerium            Edzer Josh V. Padilla
 french                   3.0.3        includebeer        Alain Rivest
-german                   3.0.3        Rufnex             Johannes Gamperl
+german                   3.0.6x       Rufnex             Johannes Gamperl
 greek                    3.0.4        grigoris86         Grigoris Charamidis
 gujarati                 3.0.3        sajid19991         Sajid Mathupotra
-hindi                    3.0.3        shindesushilkumar  Shindesushil Kumar
+hindi                    3.0.6x       shindesushilkumar  Sushilkumar Shinde
 hungarian                3.0.3        orionstar          László Bóra
 indonesian               3.0.3        ridho1991          Mutasim Ridlo
 italian                  3.0.3x       ster               Stefano Mazzega
@@ -58,6 +58,7 @@ portuguese               3.0.3        j38600             Júlio Sebastião
 portuguese-brazilian     3.0.3        mateusfbi          Mateus Brandão
 romanian                 3.0.3        Chiribuc           Cristian Robert Chiribuc
 russian                  3.0.3        vadimyer           Vadim Yermolin
+serbian                  3.0.6x       novakurosevic      Novak Urosevic
 simplified-chinese       3.0.3        denghongcai        Deng HongCai
 slovak                   3.0.3        gadelat            Gabriel Potkány
 slovenian                3.0.4        andrejflorjancic   Andrej Florjančič
